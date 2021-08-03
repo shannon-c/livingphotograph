@@ -1,2 +1,2 @@
-# livingphotograph
-English Project
+# The living photograph ppt 📝
+English Tutorial Project
